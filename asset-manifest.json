@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.0c27f6a5.css",
-    "main.js": "/static/js/main.388a27c7.js",
+    "main.js": "/static/js/main.e9be684e.js",
     "static/js/787.f589699a.chunk.js": "/static/js/787.f589699a.chunk.js",
     "static/media/heroImg.png": "/static/media/heroImg.a59357373062d91d2ac3.png",
     "static/media/coverPhoto.png": "/static/media/coverPhoto.cd5cebd737e7fcb81861.png",
+    "static/media/campaignImg.png": "/static/media/campaignImg.201aa78fb2efd383b3e8.png",
     "static/media/listing01.png": "/static/media/listing01.e110a50710abfbb4f2f1.png",
     "static/media/listing03.png": "/static/media/listing03.dc591be17d79304b04f7.png",
     "static/media/listing02.png": "/static/media/listing02.317c1ba2b0a7b01fbe3e.png",
@@ -15,6 +16,7 @@
     "static/media/listing2.png": "/static/media/listing2.56c39eec59f5322331b5.png",
     "static/media/HelveticaNeue.ttf": "/static/media/HelveticaNeue.372d58a9bf10285baebe.ttf",
     "static/media/agent4.png": "/static/media/agent4.80c2ef36bca2f900f329.png",
+    "static/media/floorPlanImg.png": "/static/media/floorPlanImg.96990c089bfce4053bf0.png",
     "static/media/agencyLargeLogo.png": "/static/media/agencyLargeLogo.ba0ea4656ba90a14a1d4.png",
     "static/media/agent2.png": "/static/media/agent2.0766f8d5be44f5da16e6.png",
     "static/media/commercialAgencyExtraLargeLogo.png": "/static/media/commercialAgencyExtraLargeLogo.2dc9ad1d38fb33096f55.png",
@@ -27,11 +29,11 @@
     "static/media/AgencyLogo.png": "/static/media/AgencyLogo.6454225d7428aed310a3.png",
     "index.html": "/index.html",
     "main.0c27f6a5.css.map": "/static/css/main.0c27f6a5.css.map",
-    "main.388a27c7.js.map": "/static/js/main.388a27c7.js.map",
+    "main.e9be684e.js.map": "/static/js/main.e9be684e.js.map",
     "787.f589699a.chunk.js.map": "/static/js/787.f589699a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0c27f6a5.css",
-    "static/js/main.388a27c7.js"
+    "static/js/main.e9be684e.js"
   ]
 }
