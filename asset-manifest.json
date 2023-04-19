@@ -1,11 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.bf9e7560.css",
-    "main.js": "/static/js/main.2e991741.js",
+    "main.css": "/static/css/main.c2f45bb5.css",
+    "main.js": "/static/js/main.793ab167.js",
     "static/js/787.474a7e13.chunk.js": "/static/js/787.474a7e13.chunk.js",
+    "static/media/map.png": "/static/media/map.a1fdaf938278471109ea.png",
     "static/media/heroImg.png": "/static/media/heroImg.a59357373062d91d2ac3.png",
+    "static/media/property-2.png": "/static/media/property-2.6c189045f77166832942.png",
     "static/media/coverPhoto.png": "/static/media/coverPhoto.cd5cebd737e7fcb81861.png",
     "static/media/campaignImg.png": "/static/media/campaignImg.201aa78fb2efd383b3e8.png",
+    "static/media/property-1.png": "/static/media/property-1.b0ef0b8211141fe4d49a.png",
     "static/media/listing01.png": "/static/media/listing01.e110a50710abfbb4f2f1.png",
     "static/media/listing03.png": "/static/media/listing03.dc591be17d79304b04f7.png",
     "static/media/listing02.png": "/static/media/listing02.317c1ba2b0a7b01fbe3e.png",
@@ -22,9 +25,21 @@
     "static/media/listing3.png": "/static/media/listing3.cbc3b4ad556fefa8414a.png",
     "static/media/listing2.png": "/static/media/listing2.56c39eec59f5322331b5.png",
     "static/media/HelveticaNeue.ttf": "/static/media/HelveticaNeue.372d58a9bf10285baebe.ttf",
+    "static/media/a2.png": "/static/media/a2.bf4e72d52f1274fd0f5c.png",
+    "static/media/agencyAgentImg (9).png": "/static/media/agencyAgentImg (9).754f2c8f3194f4264663.png",
+    "static/media/agencyAgentImg (2).png": "/static/media/agencyAgentImg (2).0515e300824894b32fc8.png",
+    "static/media/agencyAgentImg (5).png": "/static/media/agencyAgentImg (5).26bebeaf4cd92d892d2f.png",
+    "static/media/agencyAgentImg (7).png": "/static/media/agencyAgentImg (7).e9f28608ac1d702b0cb9.png",
+    "static/media/agencyAgentImg (11).png": "/static/media/agencyAgentImg (11).6aa43d80755c6151e859.png",
+    "static/media/agencyAgentImg (6).png": "/static/media/agencyAgentImg (6).e230f8f647ed366e0e11.png",
+    "static/media/agencyAgentImg (4).png": "/static/media/agencyAgentImg (4).36fc3a7483538caa6550.png",
     "static/media/agent4.png": "/static/media/agent4.80c2ef36bca2f900f329.png",
     "static/media/floorPlanImg.png": "/static/media/floorPlanImg.96990c089bfce4053bf0.png",
+    "static/media/agencyAgentImg (3).png": "/static/media/agencyAgentImg (3).407bde916251b070ed8f.png",
+    "static/media/agencyAgentImg (8).png": "/static/media/agencyAgentImg (8).965b58ef3441adbf3fd9.png",
+    "static/media/agencyAgentImg (10).png": "/static/media/agencyAgentImg (10).7af62d886a36de4bd324.png",
     "static/media/floorPlan.png": "/static/media/floorPlan.689ffed8aa7ed7ac18f8.png",
+    "static/media/agencyAgentImg (1).png": "/static/media/agencyAgentImg (1).40479f3988345e688f78.png",
     "static/media/agencyLargeLogo.png": "/static/media/agencyLargeLogo.ba0ea4656ba90a14a1d4.png",
     "static/media/agent2.png": "/static/media/agent2.0766f8d5be44f5da16e6.png",
     "static/media/commercialAgencyExtraLargeLogo.png": "/static/media/commercialAgencyExtraLargeLogo.2dc9ad1d38fb33096f55.png",
@@ -36,12 +51,12 @@
     "static/media/commercialAgencyMediumLogo.png": "/static/media/commercialAgencyMediumLogo.806deea8e7da439e5f9c.png",
     "static/media/AgencyLogo.png": "/static/media/AgencyLogo.6454225d7428aed310a3.png",
     "index.html": "/index.html",
-    "main.bf9e7560.css.map": "/static/css/main.bf9e7560.css.map",
-    "main.2e991741.js.map": "/static/js/main.2e991741.js.map",
+    "main.c2f45bb5.css.map": "/static/css/main.c2f45bb5.css.map",
+    "main.793ab167.js.map": "/static/js/main.793ab167.js.map",
     "787.474a7e13.chunk.js.map": "/static/js/787.474a7e13.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf9e7560.css",
-    "static/js/main.2e991741.js"
+    "static/css/main.c2f45bb5.css",
+    "static/js/main.793ab167.js"
   ]
 }
