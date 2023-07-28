@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2e3ec943.css",
-    "main.js": "/static/js/main.ae57ee38.js",
+    "main.js": "/static/js/main.59d6de09.js",
     "static/js/787.474a7e13.chunk.js": "/static/js/787.474a7e13.chunk.js",
     "static/media/realEstate.mp4": "/static/media/realEstate.dcfdc2004f1d037d6608.mp4",
     "static/media/map.png": "/static/media/map.a1fdaf938278471109ea.png",
@@ -53,11 +53,11 @@
     "static/media/AgencyLogo.png": "/static/media/AgencyLogo.6454225d7428aed310a3.png",
     "index.html": "/index.html",
     "main.2e3ec943.css.map": "/static/css/main.2e3ec943.css.map",
-    "main.ae57ee38.js.map": "/static/js/main.ae57ee38.js.map",
+    "main.59d6de09.js.map": "/static/js/main.59d6de09.js.map",
     "787.474a7e13.chunk.js.map": "/static/js/787.474a7e13.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e3ec943.css",
-    "static/js/main.ae57ee38.js"
+    "static/js/main.59d6de09.js"
   ]
 }
