@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.14f67a2a.css",
-    "main.js": "/static/js/main.83a63014.js",
+    "main.js": "/static/js/main.171fd7ba.js",
     "static/js/787.474a7e13.chunk.js": "/static/js/787.474a7e13.chunk.js",
     "static/media/realEstate.mp4": "/static/media/realEstate.dcfdc2004f1d037d6608.mp4",
     "static/media/map.png": "/static/media/map.a1fdaf938278471109ea.png",
@@ -17,11 +17,9 @@
     "static/media/propertyImg5.png": "/static/media/propertyImg5.ba6b955b34bbb6cc4921.png",
     "static/media/propertyImg3.png": "/static/media/propertyImg3.94fd5b3c71903c7870ef.png",
     "static/media/propertyImg1.png": "/static/media/propertyImg1.8e1fda18350c074dfa31.png",
-    "static/media/AgentSqureEdit.png": "/static/media/AgentSqureEdit.bc6c62b67e50d4f14d95.png",
     "static/media/propertyImg4.png": "/static/media/propertyImg4.ec2bcd5be8e09147071c.png",
     "static/media/logoSmall.png": "/static/media/logoSmall.0c7716614925d5a6b20b.png",
     "static/media/propertyImg2.png": "/static/media/propertyImg2.171bbe4b248471592013.png",
-    "static/media/AgentRoundEdit.png": "/static/media/AgentRoundEdit.1a8fb4c8f2120f01f2d5.png",
     "static/media/listing1.png": "/static/media/listing1.f3e2845b09e177a24ff5.png",
     "static/media/listing3.png": "/static/media/listing3.cbc3b4ad556fefa8414a.png",
     "static/media/listing2.png": "/static/media/listing2.56c39eec59f5322331b5.png",
@@ -48,16 +46,17 @@
     "static/media/commercialAgencyLargeLogo.png": "/static/media/commercialAgencyLargeLogo.c1b458bcfeb4b6d59c72.png",
     "static/media/agencyMediumLogo.png": "/static/media/agencyMediumLogo.a0131af53e9fe68bf623.png",
     "static/media/agent1.png": "/static/media/agent1.498f3d01f09d74697b26.png",
+    "static/media/AgentRoundEdit.jpg": "/static/media/AgentRoundEdit.faba74658578c90da70c.jpg",
+    "static/media/AgentSqureEdit.jpg": "/static/media/AgentSqureEdit.faba74658578c90da70c.jpg",
     "static/media/agent3.png": "/static/media/agent3.cf107b41fbe9a3802279.png",
     "static/media/commercialAgencyMediumLogo.png": "/static/media/commercialAgencyMediumLogo.806deea8e7da439e5f9c.png",
-    "static/media/AgencyLogo.png": "/static/media/AgencyLogo.6454225d7428aed310a3.png",
     "index.html": "/index.html",
     "main.14f67a2a.css.map": "/static/css/main.14f67a2a.css.map",
-    "main.83a63014.js.map": "/static/js/main.83a63014.js.map",
+    "main.171fd7ba.js.map": "/static/js/main.171fd7ba.js.map",
     "787.474a7e13.chunk.js.map": "/static/js/787.474a7e13.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14f67a2a.css",
-    "static/js/main.83a63014.js"
+    "static/js/main.171fd7ba.js"
   ]
 }
